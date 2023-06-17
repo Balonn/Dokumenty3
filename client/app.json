@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "kursy3",
+    "slug": "kursy3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
